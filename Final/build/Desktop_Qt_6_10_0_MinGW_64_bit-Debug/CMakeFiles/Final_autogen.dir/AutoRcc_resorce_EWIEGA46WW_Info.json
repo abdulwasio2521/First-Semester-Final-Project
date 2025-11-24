@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Final_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Study/Sem01 Project/Final",
+	"CMAKE_SOURCE_DIR" : "E:/Study/Sem01 Project/Final",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Final_autogen/include",
+	"INPUTS" : [ "E:/Study/Sem01 Project/Final/school.gif" ],
+	"LOCK_FILE" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/Final_autogen.dir/AutoRcc_resorce_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resorce" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resorce.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.10.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Study/Sem01 Project/Final/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/Final_autogen.dir/AutoRcc_resorce_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Study/Sem01 Project/Final/resorce.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
